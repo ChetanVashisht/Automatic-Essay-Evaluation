@@ -1,0 +1,29 @@
+Chapter 1 & 2
+	The student starts the test(GRE) with a predetermined estimate of a parameter. Then based on the questions asked and the answers given, the parameter updates itself to provide the next question based on the current proefficency in the variable. Hence acting as a Baysian system and probability based approach to see when to stop testing a particular variable and start testing the next one.
+
+Chapter 3
+	Shows that people are bad raters. They are very inconsistant and don't even follow the rule based systems set by them.
+	A survey conducted shows that every (exprienced) rater looks for some particular traits and presence(absence) of these traits yields better/worse marks. Hence it is possible to bulid a rule based system for expreinced raters and follow the decision tree to award a score. If the raters are good enough, we can see that the rules set by one of the rates are coherent with the others, by following a proper decision tree.
+
+Chapter 4
+	Steps involved include feature extraction and ecidence synthesis. First primary features are extracted from the test (digit count etc). They can take 3 values i.e 'A' - Accceptable, 'I' - Indeterminate and 'U' - Unacceptable. A weighted sum of the features with the nnumber of Is and Us decide whether the output will be an 'A', 'I' or 'U'. These are clusted into groups whose score is a weighted sum of the nodes. A weighted su of the clusters gives the final proefficiency in the subject. That decides whether or not the student fails. 
+	Ex:
+		The flow chart indicates the way the exam is evaluated and the features extracted along with their weights.
+
+			Spelling 			(2)\
+			Grammar				(2)---- Basic English 	(7)\
+			Sentence structure	(3)/						\
+															 ------------ Proefficiency ---> Pass/Fail
+			Idea 				(3)\						/
+			Implementation 		(3)---- Creativity 		(8)/
+			Understanding 		(2)/
+
+		#-------------------------------------------------------------#
+		The table shows the output of the number of Is vs the noumber of Us
+
+				# of Is'
+					0	1	2
+			#	0	A 	I 	U
+			of	1 	I 	U
+			Us' 2	U
+
