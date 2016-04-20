@@ -1,0 +1,14 @@
+Addition,also,again,as well as,besides,coupled with,further more,in addition,likewise,moreover,similarly
+Consequence,accordingly,as a result,consequently,for this reason,for this purpose,hence,otherwise,so then,subsequently,therefore,thus,thereupon,wherefore
+contrast,by the same token,conversely,instead,likewise,on one hand,on the other hand,on the contrary,rather,similarly,yet,but,however,still,nevertheless,in contrast
+here,there,over there,beyond,nearly,opposite,under,above,to the left,to the right,in the distance
+by the way,incidentally
+above all,chiefly,with attention to,especially,particularly,singularly
+aside from,barring,beside,except,excepting,excluding,exclusive of,other than,outside of,save
+chiefly,especially,for instance,in particular,markedly,namely,particularly,including,specifically,such as
+as a rule,as usual,for the most part,generally,generally speaking,ordinarily,usually
+for example,for instance,for one thing,as an illustration,illustrated with,as an example,in the case
+comparatively,coupled with,correspondingly, identically,likewise,similar,moreover,together with
+in essence,in other words,namely,that is,that is to say,in short,in brief,to put differently
+at first,first of all,to begin with,in the first place,at the same time,for now,for the time being,the next step,in time,in turn,later on,meanwhile,next,then,soon,the meantime,later,while,earlier,simultaneously,afterward,in conclusion,with this in mind
+after all,all in all,all things considered,briefly,by and large,in any case,in any event,in brief,in conclusion,on the whole,in short,in summary,in the final analysis,in the long run,on balance,to sum up,to summarize,finally
