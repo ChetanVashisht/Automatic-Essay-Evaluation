@@ -9,8 +9,8 @@ def remover(file):
 		row1 = row.strip().split("\t")
 		essay_set = row1[1]
 
-		writer_train = open('../Inputs/Train/new_train' + str(essay_set) + '.tsv', 'a')
-		writer_test = open('../Inputs/Test/new_test' + str(essay_set) + '.tsv', 'a')
+		writer_train = open('../Data/Train/new_train' + str(essay_set) + '.tsv', 'a')
+		writer_test = open('../Data/Test/new_test' + str(essay_set) + '.tsv', 'a')
 		
 		if essay_set != '2':
 			if (random() >= 0.65):
